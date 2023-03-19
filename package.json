@@ -11,5 +11,9 @@
     "mymodule": "^1.0.1"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/osifalujoi1/ModuleJS.git"
+  }
 }
